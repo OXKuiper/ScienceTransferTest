@@ -1,4 +1,4 @@
-#test 2
+#test
 
 science = 1
 art = science
